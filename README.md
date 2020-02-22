@@ -168,3 +168,4 @@ To get started, find the ```translate``` function, and write your code.  Everyti
 
 ### A note for Cloud 9 users
 Once you run the ```yarn start``` command above,  You'll want to click the 'Preview' button to see your running application.
+"# React-Redux-Intro" 
